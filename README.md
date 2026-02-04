@@ -1,4 +1,6 @@
 
+A java agents that adds an OTEL @WithSpan annotation at runtime to configured packages/classes/methods
+
 
 ## Build
 ./gradlew clean build
